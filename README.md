@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[[https://dlcdnwebimgs.asus.com.cn/gain/13c2e347-0948-4f40-9e4c-fb7bd890aff0/w800/fwebp)](https://dlcdnwebimgs.asus.com.cn/gain/13c2e347-0948-4f40-9e4c-fb7bd890aff0/w800/fwebp)" width="350px">
+<img src="https://dlcdnwebimgs.asus.com.cn/gain/13c2e347-0948-4f40-9e4c-fb7bd890aff0/w800/fwebp" width="350px">
 </div>
 
 <h1 align="center">ASUS PRIME Z790M PLUS D4 Hackintosh OpenCore</h1>
