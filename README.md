@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://www.asrock.com/mb/photo/Z490%20Extreme4(L2).png" width="350px">
+<img src="[[https://dlcdnwebimgs.asus.com.cn/gain/13c2e347-0948-4f40-9e4c-fb7bd890aff0/w800/fwebp)](https://dlcdnwebimgs.asus.com.cn/gain/13c2e347-0948-4f40-9e4c-fb7bd890aff0/w800/fwebp)" width="350px">
 </div>
 
-<h1 align="center">ASUS PRIME Z790M PLUS D4 Hackintosh</h1>
-<h3 align="center">华擎 Z490 极限玩家 黑苹果 OpenCore 引导配置</h3>
+<h1 align="center">ASUS PRIME Z790M PLUS D4 Hackintosh OpenCore</h1>
+<h3 align="center">华硕 大师 Z790M PLUS D4 OpenCore 引导配置</h3>
 <br>
 
 ## Disclaimer / 免责声明
@@ -59,7 +59,7 @@ There is nothing that doesn't work
 | --- | --- | --- | --- |
 | WiFi | ✅ | `itlwm` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
 | Bluetooth | ✅ | `Intel AX210 ` | Suggest to switch Broadcom based card<br>推荐更换博通无线网卡 |
-| USB 2.0, USB 3.0 | ✅ | `USBToolBox.kext and UTBMap.kext` | |
+| USB 2.0, USB 3.0 | ✅ | `USBInjectAll` | XhciPortLimit Unlock<br> XhciPortLimit解除USB限制0.9.3之后可用|
 | USB 3.1 | ✅ | `SSDT-TB3 and SSDT-DTGP` | Hotplug fully supported<br>支持全功能热插拔 |
 | USB Power Properties in macOS<br>macOS 的 USB 电源属性 | ✅ | `SSDT-USBX` | |
 | Thunderbolt 3 Hotplug<br>雷电接口热插拔 | ✅ | `SSDT-TB3` | You need to swipe the Thunderbolt 3 expansion card firmware<br>需要刷写雷电3扩展卡固件 |
