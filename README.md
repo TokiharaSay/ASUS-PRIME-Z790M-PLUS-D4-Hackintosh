@@ -131,7 +131,7 @@ To be supplemented
 
 ## Other Information / 其它信息
 
-### How to build EFI / 如何编译本 EFI
+~~### How to build EFI / 如何编译本 EFI
 
 There is no prebuilt version of EFI avaliable YET, and it is only able to build under macOS. Use a virtual machine or [action-tmate](https://github.com/mxschmitt/action-tmate) if you have to.
 
@@ -146,7 +146,7 @@ git clone https://github.com/TokiharaSay/ASUS-PRIME-Z790M-PLUS-D4-Hackintosh
 cd ASUS-PRIME-Z790M-PLUS-D4-Hackintosh
 chmod +x **/*.sh
 ./build.sh
-```
+```~~
 
 Find generated EFI under `Output` folder. Find OpenCore config at `Output/EFI/OC/config_sample.plist` and fill in your own SMBIOS (Follow [the guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html), use model `MacPro7,1`) then rename `config_sample.plist` to `config.plist`.
 
@@ -154,7 +154,7 @@ Find generated EFI under `Output` folder. Find OpenCore config at `Output/EFI/OC
 
 ----
 
-Use following command to update and rebuild the EFI from upstream.
+~~Use following command to update and rebuild the EFI from upstream.
 
 使用下述指令从上游更新和重新编译 EFI：
 
@@ -163,7 +163,7 @@ cd ASUS-PRIME-Z790M-PLUS-D4-Hackintosh
 git pull --rebase
 chmod +x **/*.sh
 ./build.sh
-```
+```~~
 
 Everytime you rebuilt the EFI you have to fill in the SMBIOS again. So keep your SMBIOS info saved in a safe place!
 
