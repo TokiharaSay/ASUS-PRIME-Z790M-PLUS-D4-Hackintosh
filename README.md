@@ -125,9 +125,11 @@ No specific requirement
 
 ### BIOS Settings / 修改 BIOS 设置
 
-To be supplemented
+关闭 Resizable BAR
+关闭 安全启动
 
-待补充
+Close Resizable BAR
+Close SecureBoot
 
 ## Donation / 捐赠
 
