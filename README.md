@@ -23,7 +23,7 @@ Your warranty is now void. Please do some research if you have any concerns befo
 | Audio            | Realtek ALC897                     |
 | Ram              | KINGBANK 64 GB DDR4 3600 Mhz       |
 | Wifi + Bluetooth | Intel® AX210                       |
-| NVMe             | WD SN735 1TB Fanxiang S500 Pro 2TB |
+| NVMe             | WD SN735 1TB WD SN640 U2 7.68TB |
 | PCIE Expansion   | GC-TITAN RIDGE ver 2.0             |
 | SmBios           | MacPro7,1                          |
 | BootLoader       | OpenCore 0.9.3                     |
